@@ -1,0 +1,51 @@
+[
+  {
+    "type": "missing",
+    "loc": ["threadId"],
+    "msg": "Field required",
+    "input": {},
+    "url": "https://errors.pydantic.dev/2.11/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": ["runId"],
+    "msg": "Field required",
+    "input": {},
+    "url": "https://errors.pydantic.dev/2.11/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": ["state"],
+    "msg": "Field required",
+    "input": {},
+    "url": "https://errors.pydantic.dev/2.11/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": ["messages"],
+    "msg": "Field required",
+    "input": {},
+    "url": "https://errors.pydantic.dev/2.11/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": ["tools"],
+    "msg": "Field required",
+    "input": {},
+    "url": "https://errors.pydantic.dev/2.11/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": ["context"],
+    "msg": "Field required",
+    "input": {},
+    "url": "https://errors.pydantic.dev/2.11/v/missing"
+  },
+  {
+    "type": "missing",
+    "loc": ["forwardedProps"],
+    "msg": "Field required",
+    "input": {},
+    "url": "https://errors.pydantic.dev/2.11/v/missing"
+  }
+]
