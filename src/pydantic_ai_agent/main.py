@@ -31,7 +31,6 @@ class GameState(BaseModel):
 
 load_dotenv()   
 agent = Agent(
-    """The agent"""
     'openai:gpt-4o-mini', 
     instructions='''You are a fun math game assistant! 
     
